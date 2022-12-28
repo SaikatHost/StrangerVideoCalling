@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135683548778",
+    "project_id": "strangervideocolling",
+    "storage_bucket": "strangervideocolling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135683548778:android:6d5e95ff217f272a460c13",
+        "android_client_info": {
+          "package_name": "com.example.strangervideocolling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135683548778-i4r280bb0kce1gpe8djk9uomrs6e03ek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfNLPL-0avKNqolzw2fOnVyZEe0VjZujE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135683548778-i4r280bb0kce1gpe8djk9uomrs6e03ek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
